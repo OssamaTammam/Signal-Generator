@@ -10,7 +10,8 @@ A versatile signal generator program that provides users with the ability to gen
 3. General order polynomial
 4. Exponential signal
 5. Sinsuodial signal
- ## Types of Opertaions
+   
+## Types of Opertaions
 1. Amplitude Scaling
 2. Time reversal
 3. Time shift
